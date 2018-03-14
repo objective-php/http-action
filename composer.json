@@ -19,8 +19,7 @@
     "php": ">=7.0",
     "psr/http-server-handler": "^1.0",
     "zendframework/zend-diactoros": "^1.7",
-    "psr/http-server-middleware": "^1.0",
-    "objective-php/filter": "dev-master"
+    "psr/http-server-middleware": "^1.0"
   },
   "require-dev": {
   },
