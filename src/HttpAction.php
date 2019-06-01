@@ -6,7 +6,7 @@
  * Time: 09:04
  */
 
-namespace ObjectivePHP\Middleware\HttpAction;
+namespace ObjectivePHP\HttpAction;
 
 
 use Psr\Http\Message\ResponseInterface;
@@ -15,7 +15,7 @@ use Zend\Diactoros\Response;
 
 /**
  * Class HttpAction
- * @package ObjectivePHP\Middleware\HttpAction
+ * @package ObjectivePHP\HttpAction
  */
 abstract class HttpAction implements MiddlewareInterface
 {
